@@ -58,3 +58,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- <a href="https://github.com/dwightrings/1st-Project">1st Project</a>
